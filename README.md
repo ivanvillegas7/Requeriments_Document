@@ -1,3 +1,3 @@
 # Requeriments Document
 
-Download a open the BOUML project in BOUML to get acces to the the UML diagram.
+Download the zip file and open the project in BOUML to get access to the the UML diagram.
